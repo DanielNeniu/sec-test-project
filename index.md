@@ -2,55 +2,57 @@
 layout: default
 ---
 
-The start to my attempt at building a Cybersecurity portofolio.
+# Daniel's Portofolio of Cybersecurity Projects
 
-# Header 1
+This portfolio showcases my skills and experience in cybersecurity, particularly focused on securing cloud-based APIs and infrastructure.
 
-Daniel's Portofolio of Cybersecurity Projects
+## About Me
 
-## Header 2
+I am a passionate about cybersecurity. I have a solid background in cloud engineering. As a Cloud Engineer specializing in Apigee X and Hybrid, I've gained valuable experience in securing APIs, implementing best practices for Kubernetes security, and understanding cloud security principles. I am eager to leverage my skills to build robust security postures and pursue a career in either cloud security or offensive security.
 
-> This is a blockquote following a header.
+### Cybersecurity Skills
+
+> API Security:
+>> OAuth 2.0 and OpenID Connect
+>> API token management
+>> API rate limiting
+>> API threat protection
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Kubernetes Security:
+>> RBAC (Role-Based Access Control)
+>> Network policies
+>> Pod security policies
+>> Vulnerability scanning
+>
+> Cloud Security:
+>> IAM (Identity and Access Management)
+>> Data encryption
+>> Infrastructure hardening
+>> Cloud native security best practices
+>
+>Threat Intelligence:
+>> Understanding threat actors and attack vectors
+>> Using threat intelligence feeds
 
-### Header 3
+#### Relevant Technologies
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*   Apigee X: Security policies (OAuth, rate limiting, JWT), Threat protection, Data masking
+*   Kubernetes: RBAC, Network policies, Pod security policies, Kubernetes Audit Logging
+*   Cloud Platform: Cloud IAM, Cloud Armor, Security Scanner, Cloud DLP
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+##### Projects
 
-#### Header 4
+1.  Build a Network
+2.  Build a SIEM
+3.  Build a Honeypot
+4.  Malware analasys
+5.  DNS_SPOOFER
+6.  Packet Sniffer
+7.  MAC address changer
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+###### Where my projects can be found
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+To be added
 
 ### There's a horizontal rule below this.
 
