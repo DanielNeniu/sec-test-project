@@ -101,13 +101,13 @@ To be added
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Regele Stirban</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>Not Known</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Straja</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Imi plac acadelele</dd>
 </dl>
 
 ```
